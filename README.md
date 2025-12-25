@@ -1,21 +1,19 @@
-👋 Hi, I’m Sarath Peddireddy (@Sarath-peddireddy)  
-🎓 Pursuing a Bachelor's in Computer Science & Engineering with a specialization in Artificial Intelligence at Parul University.  
+👋 Hi, I’m Sarath Peddireddy (@Sarath-peddireddy)
 
-🤖 Passionate AI Product Manager in the making, combining **Generative AI, LLMs, and AI Agents** to build user-centric, scalable products that solve real-world problems.  
+🎓 Bachelor’s in Computer Science & Engineering (Artificial Intelligence) at Parul University.
 
-🌱 Currently exploring **text generation, RAG, AI agents, and creative GenAI applications** to design intelligent and actionable solutions.  
+🤖 Aspiring AI Product Manager with a strong hands-on background in building and evaluating AI systems. I enjoy working at the intersection of product thinking and engineering—deciding where AI adds real value, shaping problem statements, and turning ideas into usable, scalable solutions.
 
-💻 Technical Fluency: Python, FastAPI, SQL, APIs, Vector Databases, Generative AI frameworks (LangChain, LangGraph, CrewAI), LLMs, and AI/ML pipelines.  
+🧠 My interests lie in Generative AI, LLM-powered systems, RAG, and AI agents, with a focus on practical use cases, workflow automation, and measurable business impact rather than demos or hype.
 
-🔥 Selected Projects:  
-- **WealthMind – AI Personal Finance Copilot**: AI assistant providing actionable recommendations, personalized insights, and interactive dashboards.  
-- **Financial AI Assistant – Investment Research**: AI investment platform delivering real-time insights, RAG-powered analysis, and report generation.  
-- **AI Fairness Detection System**: Detects and mitigates bias in AI models for ethical decision-making.  
-- **Law Query Agent (JurisGPT)**: Context-aware legal AI assistant using NLP and generative models.  
+🌱 Currently exploring how AI products are designed end-to-end—from problem framing and system design to experimentation, metrics, and production readiness.
 
-🤝 Open to **AI Product collaborations, open-source contributions, and innovative GenAI solutions**.  
+💻 Technical fluency (to support product decisions):  
+Python, APIs, FastAPI, SQL, LLMs, Vector Databases, LangChain, LangGraph, CrewAI, AI/ML pipelines
 
-📫 Reach me at: sarathpeddireddy93477@gmail.com  
+🤝 Open to AI product discussions, PM–engineering collaborations, and contributing to thoughtful open-source AI projects.
+
+📫 Reach me at: sarathpeddireddy93477@gmail.com
 
 😄 Pronouns: He/Him  
-⚡ Fun fact: Kabaddi fan and sports enthusiast!
+⚡ Fun fact: Kabaddi fan and sports enthusiast
