@@ -2,7 +2,7 @@
 
 🎓 Bachelor’s in Computer Science & Engineering (Artificial Intelligence) at Parul University.
 
-🤖 Aspiring AI Product Manager with a strong hands-on background in building and evaluating AI systems. I enjoy working at the intersection of product thinking and engineering—deciding where AI adds real value, shaping problem statements, and turning ideas into usable, scalable solutions.
+🤖 AI Product Manager with a strong hands-on background in building and evaluating AI systems. I enjoy working at the intersection of product thinking and engineering—deciding where AI adds real value, shaping problem statements, and turning ideas into usable, scalable solutions.
 
 🧠 My interests lie in Generative AI, LLM-powered systems, RAG, and AI agents, with a focus on practical use cases, workflow automation, and measurable business impact rather than demos or hype.
 
