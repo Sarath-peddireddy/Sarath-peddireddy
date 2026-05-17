@@ -1,19 +1,57 @@
-👋 Hi, I’m Sarath Peddireddy (@Sarath-peddireddy)
+# Hi, I’m Sarath Peddireddy
 
-🎓 Bachelor’s in Computer Science & Engineering (Artificial Intelligence) at Parul University.
+AI Product & Systems Builder focused on enterprise AI, LLM applications, and intelligent workflow automation.
 
-🤖 AI Product Manager with a strong hands-on background in building and evaluating AI systems. I enjoy working at the intersection of product thinking and engineering—deciding where AI adds real value, shaping problem statements, and turning ideas into usable, scalable solutions.
+I work at the intersection of product thinking, AI systems, and engineering — translating real operational problems into scalable AI-powered products with measurable business impact.
 
-🧠 My interests lie in Generative AI, LLM-powered systems, RAG, and AI agents, with a focus on practical use cases, workflow automation, and measurable business impact rather than demos or hype.
+## What I Focus On
 
-🌱 Currently exploring how AI products are designed end-to-end—from problem framing and system design to experimentation, metrics, and production readiness.
+- Enterprise AI systems
+- LLM applications & AI agents
+- Retrieval-Augmented Generation (RAG)
+- AI workflow automation
+- Product strategy for AI-native products
+- Evaluation, reliability, and production readiness
+- Human-in-the-loop AI systems
 
-💻 Technical fluency (to support product decisions):  
-Python, APIs, FastAPI, SQL, LLMs, Vector Databases, LangChain, LangGraph, CrewAI, AI/ML pipelines
+## Current Interests
 
-🤝 Open to AI product discussions, PM–engineering collaborations, and contributing to thoughtful open-source AI projects.
+- Multi-agent systems
+- Agent orchestration frameworks
+- AI copilots for enterprise workflows
+- Applied GenAI for operations & decision systems
+- AI product experimentation and evaluation
+- AI infrastructure and deployment patterns
 
-📫 Reach me at: sarathpeddireddy93477@gmail.com
+## Technical Fluency
 
-😄 Pronouns: He/Him  
-⚡ Fun fact: Kabaddi fan and sports enthusiast
+- Python
+- FastAPI
+- APIs & backend systems
+- SQL
+- Vector Databases
+- LangChain
+- LangGraph
+- CrewAI
+- LLM application development
+- AI/ML pipelines
+
+## What I Care About
+
+I’m particularly interested in building AI systems that:
+- solve high-friction operational problems,
+- augment human workflows,
+- improve decision velocity,
+- and create measurable efficiency gains in real environments.
+
+I enjoy working closely with both engineering and product teams to bridge technical depth with business outcomes.
+
+
+## Contact
+
+- Email: sarathpeddireddy93477@gmail.com
+- LinkedIn: [www.linkedin.com/in/sarath-peddireddy](https://www.linkedin.com/in/sarath-peddireddy-296942250/)
+
+---
+
+> Interested in building practical AI systems that move beyond demos into real-world operational impact.
