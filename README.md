@@ -2,7 +2,7 @@
 
 # SARATH PEDDIREDDY
 
-### AI PRODUCT MANAGER × AI SYSTEMS ENGINEER
+### AI PRODUCT ARCHITECT
 
 *Product Thinking • Systems Thinking • AI Engineering*
 
@@ -22,13 +22,13 @@ Strong interest in AI-native products where product decisions are informed by te
 
 ### AI Operating Stack
 
-`Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI Agents, Multi-Agent Systems, Agentic Workflows, Prompt Engineering, Model Context Protocol (MCP), Embeddings, Vector Search, Semantic Search, Tool Calling, Structured Outputs, AI Evaluation, Guardrails, Memory Architectures, Knowledge Retrieval, FastAPI, Python, SQL, Docker, REST APIs`
+Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI Agents, Multi-Agent Systems, Agentic Workflows, Prompt Engineering, Model Context Protocol (MCP), Embeddings, Vector Search, Semantic Search, Tool Calling, Structured Outputs, AI Evaluation, Guardrails, Memory Architectures, Knowledge Retrieval, FastAPI, Python, SQL, Docker, REST APIs
 
 ---
 
 ### Product Operating Stack
 
-`AI Product Strategy, Product Discovery, Problem Framing, PRDs, Product Requirements, User Stories, Roadmapping, Prioritization, Product Analytics, Experimentation, AI UX, Human-in-the-Loop Systems, Stakeholder Management, Enterprise SaaS, B2B Products, Systems Thinking, Execution, Go-to-Market Strategy`
+AI Product Strategy, Product Discovery, Problem Framing, PRDs, Product Requirements, User Stories, Roadmapping, Prioritization, Product Analytics, Experimentation, AI UX, Human-in-the-Loop Systems, Stakeholder Management, Enterprise SaaS, B2B Products, Systems Thinking, Execution, Go-to-Market Strategy
 
 ---
 
