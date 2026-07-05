@@ -1,57 +1,66 @@
-# Hi, I’m Sarath Peddireddy
+<div align="center">
 
-AI Product & Systems Builder focused on enterprise AI, LLM applications, and intelligent workflow automation.
+# SARATH PEDDIREDDY
 
-I work at the intersection of product thinking, AI systems, and engineering — translating real operational problems into scalable AI-powered products with measurable business impact.
+### AI PRODUCT MANAGER × AI SYSTEMS ENGINEER
 
-## What I Focus On
+*Designing AI products with product thinking. Engineering them for production.*
 
-- Enterprise AI systems
-- LLM applications & AI agents
-- Retrieval-Augmented Generation (RAG)
-- AI workflow automation
-- Product strategy for AI-native products
-- Evaluation, reliability, and production readiness
-- Human-in-the-loop AI systems
-
-## Current Interests
-
-- Multi-agent systems
-- Agent orchestration frameworks
-- AI copilots for enterprise workflows
-- Applied GenAI for operations & decision systems
-- AI product experimentation and evaluation
-- AI infrastructure and deployment patterns
-
-## Technical Fluency
-
-- Python
-- FastAPI
-- APIs & backend systems
-- SQL
-- Vector Databases
-- LangChain
-- LangGraph
-- CrewAI
-- LLM application development
-- AI/ML pipelines
-
-## What I Care About
-
-I’m particularly interested in building AI systems that:
-- solve high-friction operational problems,
-- augment human workflows,
-- improve decision velocity,
-- and create measurable efficiency gains in real environments.
-
-I enjoy working closely with both engineering and product teams to bridge technical depth with business outcomes.
-
-
-## Contact
-
-- Email: sarathpeddireddy93477@gmail.com
-- LinkedIn: [www.linkedin.com/in/sarath-peddireddy](https://www.linkedin.com/in/sarath-peddireddy-296942250/)
+</div>
 
 ---
 
-> Interested in building practical AI systems that move beyond demos into real-world operational impact.
+### About
+
+I build AI products that solve real operational problems.
+
+My approach combines **Product Strategy**, **Systems Thinking**, and **AI Engineering**—bridging customer needs, business outcomes, and production-grade implementation instead of treating them as separate disciplines.
+
+I enjoy building systems that teams trust, adopt, and rely on every day.
+
+---
+
+### Current Focus
+
+```
+Enterprise AI Products
+LLM Applications
+AI Agents
+Production RAG
+Workflow Automation
+Evaluation & Reliability
+AI Infrastructure
+```
+
+---
+
+### Selected Projects
+
+**ProcessPilot**  
+Enterprise knowledge platform powered by Retrieval-Augmented Generation.
+
+**Enterprise Workflow Automation**  
+AI systems that reduce manual operations through intelligent automation.
+
+**AI Voice Assistant**  
+Production-focused conversational AI with speech, reasoning, and orchestration.
+
+---
+
+### Philosophy
+
+> AI isn't the product.
+>
+> Solving customer problems is.
+>
+> AI simply changes what's possible.
+
+---
+
+### Connect
+
+LinkedIn  
+https://www.linkedin.com/in/sarath-peddireddy-296942250/
+
+Email  
+sarathpeddireddy93477@gmail.com
