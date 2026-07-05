@@ -4,7 +4,7 @@
 
 ### AI PRODUCT MANAGER × AI SYSTEMS ENGINEER
 
-*Designing AI products with product thinking. Engineering them for production.*
+*Product Thinking • Systems Thinking • AI Engineering*
 
 </div>
 
@@ -12,54 +12,40 @@
 
 ### About
 
-I build AI products that solve real operational problems.
+AI Product Manager focused on designing and shipping production-grade AI systems for enterprise use cases.
 
-My approach combines **Product Strategy**, **Systems Thinking**, and **AI Engineering**—bridging customer needs, business outcomes, and production-grade implementation instead of treating them as separate disciplines.
+Work spans the complete product lifecycle—from opportunity discovery and product strategy to system architecture, AI application development, deployment, evaluation, and iterative product improvement.
 
-I enjoy building systems that teams trust, adopt, and rely on every day.
+Strong interest in AI-native products where product decisions are informed by technical constraints, model capabilities, system reliability, and measurable business outcomes.
 
 ---
 
-### Current Focus
+### AI Operating Stack
 
-```
-Enterprise AI Products
-LLM Applications
-AI Agents
-Production RAG
-Workflow Automation
-Evaluation & Reliability
-AI Infrastructure
-```
+`Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI Agents, Multi-Agent Systems, Agentic Workflows, Prompt Engineering, Model Context Protocol (MCP), Embeddings, Vector Search, Semantic Search, Tool Calling, Structured Outputs, AI Evaluation, Guardrails, Memory Architectures, Knowledge Retrieval, FastAPI, Python, SQL, Docker, REST APIs`
+
+---
+
+### Product Operating Stack
+
+`AI Product Strategy, Product Discovery, Problem Framing, PRDs, Product Requirements, User Stories, Roadmapping, Prioritization, Product Analytics, Experimentation, AI UX, Human-in-the-Loop Systems, Stakeholder Management, Enterprise SaaS, B2B Products, Systems Thinking, Execution, Go-to-Market Strategy`
 
 ---
 
 ### Philosophy
 
-> AI isn't the product.
+> AI is an enabling technology.
 >
-> Solving customer problems is.
+> Products create value.
 >
-> AI simply changes what's possible.
+> Systems sustain it.
 
 ---
 
 ### Connect
 
-LinkedIn  
+**LinkedIn**  
 https://www.linkedin.com/in/sarath-peddireddy-296942250/
 
-Email  
+**Email**  
 sarathpeddireddy93477@gmail.com
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&theme=transparent" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" />
-</p>
