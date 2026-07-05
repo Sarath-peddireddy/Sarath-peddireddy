@@ -34,19 +34,6 @@ AI Infrastructure
 
 ---
 
-### Selected Projects
-
-**ProcessPilot**  
-Enterprise knowledge platform powered by Retrieval-Augmented Generation.
-
-**Enterprise Workflow Automation**  
-AI systems that reduce manual operations through intelligent automation.
-
-**AI Voice Assistant**  
-Production-focused conversational AI with speech, reasoning, and orchestration.
-
----
-
 ### Philosophy
 
 > AI isn't the product.
@@ -64,3 +51,15 @@ https://www.linkedin.com/in/sarath-peddireddy-296942250/
 
 Email  
 sarathpeddireddy93477@gmail.com
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&theme=transparent" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" />
+</p>
